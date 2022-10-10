@@ -1,0 +1,1 @@
+{"id":"e9a462a8-94e5-433f-b33c-0d699543ead5","space":32855,"runtime":"python3.9","name":"Udemy","path":"ewyppv","project":"a08p2wf7","account":"144798365827","region":"eu-central-1","deps":["fastapi","uvicorn","sqlalchemy","passlib","bcrypt","pydantic","python-multipart","python-jose","jose","aiofiles"],"envs":null,"public":true,"log_level":"off","cron":""}

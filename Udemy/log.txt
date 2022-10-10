@@ -1,0 +1,8 @@
+MyAPY: Call to get all products
+MyAPY: Call to get all products
+MyAPY: Call to get all products
+MyAPY: Call to get all products
+MyAPY: Call to get all products
+MyAPY: Call to get all products
+MyAPY: Call to get all products
+My API: Template read for product with id 2
